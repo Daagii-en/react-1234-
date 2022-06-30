@@ -1,0 +1,7 @@
+.search-box {
+  border: none;
+  border-bottom: 2px solid gray;
+  margin-bottom: 30px;
+  width: 200px;
+  line-height: 30px;
+}
